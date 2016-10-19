@@ -1,0 +1,4 @@
+README
+
+key commands:
+note that we changed the key commands for jump to start and jump to end to the square brackets. neither of our keyboards had a set home and end button, and these are the hotkeys for the professional music editing software sibelius.

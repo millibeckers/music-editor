@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="12.5" y="0.0">Model.Piece</node>
+    <node x="614.5714285714286" y="883.1428571428571">utils.MusicUtils</node>
+    <node x="406.0" y="706.0">ConsoleView.DummyConsoleView</node>
+    <node x="0.0" y="706.0">Model.Note</node>
+    <node x="0.0" y="344.0">Model.PieceImpl</node>
+    <node x="476.0" y="0.0">Tests.ModelTests</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Model.PieceImpl" target="Model.Piece">
+      <point x="0.0" y="-158.5" />
+      <point x="0.0" y="147.0" />
+    </edge>
+    <edge source="Model.PieceImpl" target="Model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="ConsoleView.DummyConsoleView" target="Model.Piece">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Tests.ModelTests" target="Model.PieceImpl">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Tests.ModelTests" target="Model.Piece">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Tests.ModelTests" target="Model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="utils.MusicUtils" target="Model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Tests.ModelTests" target="ConsoleView.DummyConsoleView">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="498.9999999999999" y="600.4285714285713" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

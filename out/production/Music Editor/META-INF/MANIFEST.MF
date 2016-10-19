@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Music Editor/src
+Main-Class: cs3500.music.MusicEditor
+

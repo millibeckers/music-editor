@@ -1,0 +1,68 @@
+Beat: 0. NOTE ON.  note 64, velocity 72
+Beat: 0. NOTE ON.  note 55, velocity 70
+Beat: 2. NOTE OFF. note 64
+Beat: 2. NOTE ON.  note 62, velocity 72
+Beat: 4. NOTE OFF. note 62
+Beat: 4. NOTE ON.  note 60, velocity 71
+Beat: 6. NOTE OFF. note 60
+Beat: 6. NOTE ON.  note 62, velocity 79
+Beat: 7. NOTE OFF. note 55
+Beat: 8. NOTE OFF. note 62
+Beat: 8. NOTE ON.  note 55, velocity 79
+Beat: 8. NOTE ON.  note 64, velocity 85
+Beat: 10. NOTE OFF. note 64
+Beat: 10. NOTE ON.  note 64, velocity 78
+Beat: 12. NOTE OFF. note 64
+Beat: 12. NOTE ON.  note 64, velocity 74
+Beat: 15. NOTE OFF. note 55
+Beat: 15. NOTE OFF. note 64
+Beat: 16. NOTE ON.  note 55, velocity 77
+Beat: 16. NOTE ON.  note 62, velocity 75
+Beat: 18. NOTE OFF. note 62
+Beat: 18. NOTE ON.  note 62, velocity 77
+Beat: 20. NOTE OFF. note 62
+Beat: 20. NOTE ON.  note 62, velocity 75
+Beat: 24. NOTE OFF. note 55
+Beat: 24. NOTE OFF. note 62
+Beat: 24. NOTE ON.  note 55, velocity 79
+Beat: 24. NOTE ON.  note 64, velocity 82
+Beat: 26. NOTE OFF. note 55
+Beat: 26. NOTE OFF. note 64
+Beat: 26. NOTE ON.  note 67, velocity 84
+Beat: 28. NOTE OFF. note 67
+Beat: 28. NOTE ON.  note 67, velocity 75
+Beat: 32. NOTE OFF. note 67
+Beat: 32. NOTE ON.  note 55, velocity 78
+Beat: 32. NOTE ON.  note 64, velocity 73
+Beat: 34. NOTE OFF. note 64
+Beat: 34. NOTE ON.  note 62, velocity 69
+Beat: 36. NOTE OFF. note 62
+Beat: 36. NOTE ON.  note 60, velocity 71
+Beat: 38. NOTE OFF. note 60
+Beat: 38. NOTE ON.  note 62, velocity 80
+Beat: 40. NOTE OFF. note 55
+Beat: 40. NOTE OFF. note 62
+Beat: 40. NOTE ON.  note 55, velocity 79
+Beat: 40. NOTE ON.  note 64, velocity 84
+Beat: 42. NOTE OFF. note 64
+Beat: 42. NOTE ON.  note 64, velocity 76
+Beat: 44. NOTE OFF. note 64
+Beat: 44. NOTE ON.  note 64, velocity 74
+Beat: 46. NOTE OFF. note 64
+Beat: 46. NOTE ON.  note 64, velocity 77
+Beat: 48. NOTE OFF. note 55
+Beat: 48. NOTE OFF. note 64
+Beat: 48. NOTE ON.  note 55, velocity 78
+Beat: 48. NOTE ON.  note 62, velocity 75
+Beat: 50. NOTE OFF. note 62
+Beat: 50. NOTE ON.  note 62, velocity 74
+Beat: 52. NOTE OFF. note 62
+Beat: 52. NOTE ON.  note 64, velocity 81
+Beat: 54. NOTE OFF. note 64
+Beat: 54. NOTE ON.  note 62, velocity 70
+Beat: 56. NOTE OFF. note 55
+Beat: 56. NOTE OFF. note 62
+Beat: 56. NOTE ON.  note 52, velocity 72
+Beat: 56. NOTE ON.  note 60, velocity 73
+Beat: 64. NOTE OFF. note 52
+Beat: 64. NOTE OFF. note 60
